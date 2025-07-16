@@ -612,5 +612,633 @@
     "name": "u2m44f496fc9.phrs",
     "txHash": "0x3436b8075163e6fcaf52f9ccb9923a505ceb49ff44e58093f34ce5f98a73829e",
     "commitment": "0x3eef4c837ad1eb3941ea4fe0e12b9f5e554651aebaf2c9b151a7a955e728a660"
+  },
+  {
+    "timestamp": "2025-07-15T09:46:26.191Z",
+    "wallet": "0x9DfCd793d6CF53Ab22bb95146a9B6aA44f496FC9",
+    "type": "domain_commit",
+    "name": "d0444f496fc9.phrs",
+    "txHash": "0x0e12f134b4119f7c0f05b774b8b6a899f23ed85dcd556af9f0d3d683263a6f7d",
+    "commitment": "0xff71e114e3183d2beb75f0c7ee782e672e7a8da666cce651814fc31eaf4e4ba1"
+  },
+  {
+    "timestamp": "2025-07-15T09:47:39.355Z",
+    "wallet": "0x9DfCd793d6CF53Ab22bb95146a9B6aA44f496FC9",
+    "type": "domain_register",
+    "name": "d0444f496fc9.phrs",
+    "txHash": "0x5ebbfe98b36d6f2c5f9896c3aeed3f494c9f508d910e48b59081658517c77e98",
+    "price": "0.01562500000001745",
+    "priceWei": "15625000000017450",
+    "duration": 5
+  },
+  {
+    "timestamp": "2025-07-15T09:47:49.163Z",
+    "wallet": "0x9DfCd793d6CF53Ab22bb95146a9B6aA44f496FC9",
+    "type": "domain_commit",
+    "name": "tg344f496fc9.phrs",
+    "txHash": "0xedde17ae3e4b45222185c965997657316f84e6a08db602a3602a0b093e78d5ce",
+    "commitment": "0xad6baebca4880a885a3f66f7e6f27cb916d989a21761b62b969bb4f3871eebd0"
+  },
+  {
+    "timestamp": "2025-07-15T09:49:01.915Z",
+    "wallet": "0x9DfCd793d6CF53Ab22bb95146a9B6aA44f496FC9",
+    "type": "domain_register",
+    "name": "tg344f496fc9.phrs",
+    "txHash": "0xea473e12344a594a251aa4052d7cdcc7b4004640b5fe76c2b412cddf9dbbb44a",
+    "price": "0.01562500000001745",
+    "priceWei": "15625000000017450",
+    "duration": 5
+  },
+  {
+    "timestamp": "2025-07-15T09:49:23.245Z",
+    "wallet": "0x72A10d02d99842D33c0b0D887abcDe1c62eBF388",
+    "type": "domain_commit",
+    "name": "yxxc62ebf388.phrs",
+    "txHash": "0x32e4d95c3adf7e5805331ab93f435b0adaf992a41ebbb9dd3c46c16b0204d2b0",
+    "commitment": "0xd950a67ad3e48db368ab6b8951fef25439f3b686598aa7555f482d265d7736cc"
+  },
+  {
+    "timestamp": "2025-07-15T09:50:36.415Z",
+    "wallet": "0x72A10d02d99842D33c0b0D887abcDe1c62eBF388",
+    "type": "domain_register",
+    "name": "yxxc62ebf388.phrs",
+    "txHash": "0xade05227b657bd56c88bd770ddb701bd3219848a0e270172aac89f7e3e9f9c7f",
+    "price": "0.01562500000001745",
+    "priceWei": "15625000000017450",
+    "duration": 5
+  },
+  {
+    "timestamp": "2025-07-15T09:50:45.547Z",
+    "wallet": "0x72A10d02d99842D33c0b0D887abcDe1c62eBF388",
+    "type": "domain_commit",
+    "name": "vsic62ebf388.phrs",
+    "txHash": "0x57572d4345cfafb3c123353b148901485f143adb7a53326a3584d22db724149c",
+    "commitment": "0x38c8c37005ff070ddb6f3524a28c09c60b06bea7f4e33333f886b869a656ceb3"
+  },
+  {
+    "timestamp": "2025-07-15T09:51:59.422Z",
+    "wallet": "0x72A10d02d99842D33c0b0D887abcDe1c62eBF388",
+    "type": "domain_register",
+    "name": "vsic62ebf388.phrs",
+    "txHash": "0x72709ee2608af03c700180bb95e2e79a3af3a5d84cf447f624683b6038414cd7",
+    "price": "0.01562500000001745",
+    "priceWei": "15625000000017450",
+    "duration": 5
+  },
+  {
+    "timestamp": "2025-07-15T09:52:08.691Z",
+    "wallet": "0x72A10d02d99842D33c0b0D887abcDe1c62eBF388",
+    "type": "domain_commit",
+    "name": "55kc62ebf388.phrs",
+    "txHash": "0x25298e77e7f387601de3a2e323256b63e7389c75b112ddbcc2fa1dd760ce9c49",
+    "commitment": "0xc94654ffbfd5b6b6630ee251cd72f7d010f94a72ce019646a292bf198e375c67"
+  },
+  {
+    "timestamp": "2025-07-15T09:53:21.973Z",
+    "wallet": "0x72A10d02d99842D33c0b0D887abcDe1c62eBF388",
+    "type": "domain_register",
+    "name": "55kc62ebf388.phrs",
+    "txHash": "0xdc542c44a5cfc5d3ccb50fcd35c077d6a030d28a249a713b88c9ce83efaa7731",
+    "price": "0.01562500000001745",
+    "priceWei": "15625000000017450",
+    "duration": 5
+  },
+  {
+    "timestamp": "2025-07-15T09:53:41.518Z",
+    "wallet": "0x1A3Ef1ECAfd0794dbEf7c0c5aF4E21AC3aF95633",
+    "type": "domain_commit",
+    "name": "gr8c3af95633.phrs",
+    "txHash": "0x20224e491d5efd6930befc724196bd7fa0b5a1e75619db47aa863cf37d70589a",
+    "commitment": "0x21125f90edfcf4327f2470cea0c2251ee23500291b94edfbd0fb8f9296bdedfa"
+  },
+  {
+    "timestamp": "2025-07-15T09:54:54.532Z",
+    "wallet": "0x1A3Ef1ECAfd0794dbEf7c0c5aF4E21AC3aF95633",
+    "type": "domain_register",
+    "name": "gr8c3af95633.phrs",
+    "txHash": "0x1dcc27dc7ab69d3643ef9986600d8df827b24791b9177e0eaec72f38093f4886",
+    "price": "0.01562500000001745",
+    "priceWei": "15625000000017450",
+    "duration": 5
+  },
+  {
+    "timestamp": "2025-07-15T09:55:10.771Z",
+    "wallet": "0x1C6d61475c20A65f97f330D7C2De25815f13cfE2",
+    "type": "domain_commit",
+    "name": "h6415f13cfe2.phrs",
+    "txHash": "0x1b51559cbee225ca2b83d0bd734f91db34b1faaa3c05e8d2e818cc83903ecbb6",
+    "commitment": "0xf59b2dd870b63d4b7395383cac98c15bdfff49c6e18f84aca0879ede421fa653"
+  },
+  {
+    "timestamp": "2025-07-15T09:56:24.874Z",
+    "wallet": "0x1C6d61475c20A65f97f330D7C2De25815f13cfE2",
+    "type": "domain_register",
+    "name": "h6415f13cfe2.phrs",
+    "txHash": "0xe4daaa701fc557eb2b35e7a58b893d7bfc9f5778b0d9ac256a9dfd6e8a719522",
+    "price": "0.01562500000001745",
+    "priceWei": "15625000000017450",
+    "duration": 5
+  },
+  {
+    "timestamp": "2025-07-15T09:56:33.084Z",
+    "wallet": "0x1C6d61475c20A65f97f330D7C2De25815f13cfE2",
+    "type": "domain_commit",
+    "name": "lyk15f13cfe2.phrs",
+    "txHash": "0x0012249952ae4f46b48576ba2d2d22e486f2a3f4c9c313a7a457dc5aa3b8cd03",
+    "commitment": "0x09b8eed4efedfbd0b57dd8602e82db3332211edcbd7fed429661036537cf651b"
+  },
+  {
+    "timestamp": "2025-07-15T09:57:46.773Z",
+    "wallet": "0x1C6d61475c20A65f97f330D7C2De25815f13cfE2",
+    "type": "domain_register",
+    "name": "lyk15f13cfe2.phrs",
+    "txHash": "0xf30983713571f325030c758fd16d82e604d997a1c9c9ba771a8774f99243d6c0",
+    "price": "0.01562500000001745",
+    "priceWei": "15625000000017450",
+    "duration": 5
+  },
+  {
+    "timestamp": "2025-07-15T09:58:00.520Z",
+    "wallet": "0xBE0e86658d5B6F58Cbc1b3B92f7D91246ddd4675",
+    "type": "domain_commit",
+    "name": "3au46ddd4675.phrs",
+    "txHash": "0x599af032125f57d7008e136c3da1c3df67f108d88dc0106633ef062bb8717e4a",
+    "commitment": "0x9916b0cfb6939cccc27a6d9c1863d2b5505a16778101e41a6c37dfb7342ab875"
+  },
+  {
+    "timestamp": "2025-07-15T09:59:14.543Z",
+    "wallet": "0xBE0e86658d5B6F58Cbc1b3B92f7D91246ddd4675",
+    "type": "domain_register",
+    "name": "3au46ddd4675.phrs",
+    "txHash": "0xa7fc2c0e52f2a372eecc7f1198244eba97bacd1aae8261c9cac6faabbaddc707",
+    "price": "0.01562500000001745",
+    "priceWei": "15625000000017450",
+    "duration": 5
+  },
+  {
+    "timestamp": "2025-07-15T09:59:35.048Z",
+    "wallet": "0xb8246c19F6F28d4C304FbBcF5DAD9bF4DD240459",
+    "type": "domain_commit",
+    "name": "emy4dd240459.phrs",
+    "txHash": "0xac391a048e6ab896c543850a62111a4d379746ec9a39a7d53d485f10c2a4455f",
+    "commitment": "0x38278ff4b414c27cca300182de2bcb1a21228da3fd469af34f2e8cb453ad346a"
+  },
+  {
+    "timestamp": "2025-07-15T10:00:48.985Z",
+    "wallet": "0xb8246c19F6F28d4C304FbBcF5DAD9bF4DD240459",
+    "type": "domain_register",
+    "name": "emy4dd240459.phrs",
+    "txHash": "0x27e8fd89b5f234d846171ae87afc13f7de5260750584a17f72c688cc27d3737f",
+    "price": "0.01562500000001745",
+    "priceWei": "15625000000017450",
+    "duration": 5
+  },
+  {
+    "timestamp": "2025-07-15T10:00:59.699Z",
+    "wallet": "0xb8246c19F6F28d4C304FbBcF5DAD9bF4DD240459",
+    "type": "domain_commit",
+    "name": "u7q4dd240459.phrs",
+    "txHash": "0xd3855d1d52a6f5cb9dd91b25eeda5a502fbc60a59a2966b5e2d2a286c7d1b83f",
+    "commitment": "0x685a09692d1f69dde45c98d2bdeb852d6dc43f40a326c906b73e1efcb6347f03"
+  },
+  {
+    "timestamp": "2025-07-15T10:02:14.255Z",
+    "wallet": "0xb8246c19F6F28d4C304FbBcF5DAD9bF4DD240459",
+    "type": "domain_register",
+    "name": "u7q4dd240459.phrs",
+    "txHash": "0x1c77b3376233fc9413456f549bc09ae6bb762ed084c07f67b54214be64a56d8d",
+    "price": "0.01562500000001745",
+    "priceWei": "15625000000017450",
+    "duration": 5
+  },
+  {
+    "timestamp": "2025-07-15T10:02:22.650Z",
+    "wallet": "0xb8246c19F6F28d4C304FbBcF5DAD9bF4DD240459",
+    "type": "domain_commit",
+    "name": "s314dd240459.phrs",
+    "txHash": "0x651e9d90aff25299b15165a13505dbf403684e7142a51dcaf0f1f6f8f7e96970",
+    "commitment": "0xd4d2cadc81d41f53e0b679d2c919abca687ed3b55106564a5a5d71dc6f9b51cb"
+  },
+  {
+    "timestamp": "2025-07-15T10:03:35.571Z",
+    "wallet": "0xb8246c19F6F28d4C304FbBcF5DAD9bF4DD240459",
+    "type": "domain_register",
+    "name": "s314dd240459.phrs",
+    "txHash": "0x7d9e1256d3380d54e39206ce7a0d4ecf56ccb17fc1fa6e7312d3ad5385531bad",
+    "price": "0.01562500000001745",
+    "priceWei": "15625000000017450",
+    "duration": 5
+  },
+  {
+    "timestamp": "2025-07-15T10:04:17.056Z",
+    "wallet": "0xf2c81E1213502842b525c4A98bb4dEd45e090B1C",
+    "type": "domain_commit",
+    "name": "2cc45e090b1c.phrs",
+    "txHash": "0x7a7d7478ce61a9df4b4826ed771bfdc8d16284595c41b0a13ecfd596260393a6",
+    "commitment": "0x2dffd69eb48b6d21a66015034eef00fa095ad5f00239d279a019048a881ab3b9"
+  },
+  {
+    "timestamp": "2025-07-15T10:05:30.175Z",
+    "wallet": "0xf2c81E1213502842b525c4A98bb4dEd45e090B1C",
+    "type": "domain_register",
+    "name": "2cc45e090b1c.phrs",
+    "txHash": "0x7e2b6b7840069a1f6017f1303fbd2fb27978284b21ad4551a3be756a29f6d78d",
+    "price": "0.01562500000001745",
+    "priceWei": "15625000000017450",
+    "duration": 5
+  },
+  {
+    "timestamp": "2025-07-15T10:05:48.407Z",
+    "wallet": "0xFb6b5dDC33e03c1870d118fA2E669A1fb9d373d2",
+    "type": "domain_commit",
+    "name": "lvsfb9d373d2.phrs",
+    "txHash": "0x9034601859c8ad43ddcfbe0a0f2f0407e5f4479f1be1f5833fdab3461aef7849",
+    "commitment": "0xfef61e54d8801ca8c65449f94261b63a968f9186c4c8b42b0071ed2542ceefea"
+  },
+  {
+    "timestamp": "2025-07-15T10:07:01.659Z",
+    "wallet": "0xFb6b5dDC33e03c1870d118fA2E669A1fb9d373d2",
+    "type": "domain_register",
+    "name": "lvsfb9d373d2.phrs",
+    "txHash": "0xab4bfeb593602631f4c9cae60339d2a79e9d26c9c4fd4322d784e029d2c2fdb1",
+    "price": "0.01562500000001745",
+    "priceWei": "15625000000017450",
+    "duration": 5
+  },
+  {
+    "timestamp": "2025-07-15T10:07:12.816Z",
+    "wallet": "0xFb6b5dDC33e03c1870d118fA2E669A1fb9d373d2",
+    "type": "domain_commit",
+    "name": "c0lfb9d373d2.phrs",
+    "txHash": "0x01231b10fc023edb23825228ad5731d7f35cf62a98e44f22de94866ea88fa3ce",
+    "commitment": "0x43f62ee96b0c796506d7deb050ad79a05e81f4cf1a4aa5a2fdb25bb2609da27b"
+  },
+  {
+    "timestamp": "2025-07-15T10:08:25.874Z",
+    "wallet": "0xFb6b5dDC33e03c1870d118fA2E669A1fb9d373d2",
+    "type": "domain_register",
+    "name": "c0lfb9d373d2.phrs",
+    "txHash": "0x61050cc343f6128088acc9aa02bbbddddd792a1acb9ce30e9eac56a30da5156c",
+    "price": "0.01562500000001745",
+    "priceWei": "15625000000017450",
+    "duration": 5
+  },
+  {
+    "timestamp": "2025-07-15T10:08:46.184Z",
+    "wallet": "0x0c822F0c3Ec0B7957f77A943ba7EfEb294726CcB",
+    "type": "domain_commit",
+    "name": "k7m294726ccb.phrs",
+    "txHash": "0x83b22a5487fdb64d6fd0f8ab2ab95f3c6f23b948406e3afb09b283b451df9223",
+    "commitment": "0x144ccf550ac5e53150623eb0cd277874951d602286a7a54939b52642be4d69c9"
+  },
+  {
+    "timestamp": "2025-07-15T10:10:07.170Z",
+    "wallet": "0x0c822F0c3Ec0B7957f77A943ba7EfEb294726CcB",
+    "type": "domain_register",
+    "name": "k7m294726ccb.phrs",
+    "txHash": "0xe88c3e347a9ea6f81c19f568ae6505b769949caf6788985eca2b9199228e6259",
+    "price": "0.01562500000001745",
+    "priceWei": "15625000000017450",
+    "duration": 5
+  },
+  {
+    "timestamp": "2025-07-15T10:10:19.203Z",
+    "wallet": "0x0c822F0c3Ec0B7957f77A943ba7EfEb294726CcB",
+    "type": "domain_commit",
+    "name": "2lb294726ccb.phrs",
+    "txHash": "0x667b596b4005ce23e0bde162503284f0179d461873968c6c334b9f3a92e70d71",
+    "commitment": "0x60f5d25b278ffbaacffe34d07c59b0617ea335963e9d27a955247b97f4eab8a9"
+  },
+  {
+    "timestamp": "2025-07-15T10:11:31.990Z",
+    "wallet": "0x0c822F0c3Ec0B7957f77A943ba7EfEb294726CcB",
+    "type": "domain_register",
+    "name": "2lb294726ccb.phrs",
+    "txHash": "0x44bf46872ccb5e16c317d747061356da3d81b9fba24657f8309346a042529b5f",
+    "price": "0.01562500000001745",
+    "priceWei": "15625000000017450",
+    "duration": 5
+  },
+  {
+    "timestamp": "2025-07-15T10:11:41.802Z",
+    "wallet": "0x0c822F0c3Ec0B7957f77A943ba7EfEb294726CcB",
+    "type": "domain_commit",
+    "name": "ype294726ccb.phrs",
+    "txHash": "0xf8a984571e40fdbe0999a33f8e2cd240d3e2e90c993f9611071d03735e278aea",
+    "commitment": "0x91b7b48978ec77963bc8878a0e663c9826ea4412720b509baf8644d21ce324a1"
+  },
+  {
+    "timestamp": "2025-07-15T10:12:55.473Z",
+    "wallet": "0x0c822F0c3Ec0B7957f77A943ba7EfEb294726CcB",
+    "type": "domain_register",
+    "name": "ype294726ccb.phrs",
+    "txHash": "0x608f55114e5916496bfd6270ea62c3b542d4066c904cbd8648e6121997d32526",
+    "price": "0.01562500000001745",
+    "priceWei": "15625000000017450",
+    "duration": 5
+  },
+  {
+    "timestamp": "2025-07-15T10:13:14.032Z",
+    "wallet": "0xFb6b5dDC33e03c1870d118fA2E669A1fb9d373d2",
+    "type": "domain_commit",
+    "name": "ru0fb9d373d2.phrs",
+    "txHash": "0xa729e505f4502ae4d4d7a4a0d58386c309e9e1dae6e4bcf2c8830a6f275435ab",
+    "commitment": "0xefe807d4773cd589a381b4497a7ad8f26e2fab86d4e7c60a2cfbc38b9240df15"
+  },
+  {
+    "timestamp": "2025-07-15T10:14:28.368Z",
+    "wallet": "0xFb6b5dDC33e03c1870d118fA2E669A1fb9d373d2",
+    "type": "domain_register",
+    "name": "ru0fb9d373d2.phrs",
+    "txHash": "0xea38e1a34211057b1efacce34c9d1c06d44c3259cba29540b19be5d0f0f1b641",
+    "price": "0.01562500000001745",
+    "priceWei": "15625000000017450",
+    "duration": 5
+  },
+  {
+    "timestamp": "2025-07-15T10:14:49.858Z",
+    "wallet": "0x73B74E866eB9Afe00e9a6Ee892c762A82461B4e9",
+    "type": "domain_commit",
+    "name": "3jr82461b4e9.phrs",
+    "txHash": "0xd9ff1e833acc7399f1a2aabd482a9401ab89ab44f7334c6a6d19ed9f621e091d",
+    "commitment": "0x46ca1fb4f7acc9744e4952efc36bbac83ef1317579106c03a996bb09389ec3f7"
+  },
+  {
+    "timestamp": "2025-07-15T10:16:02.846Z",
+    "wallet": "0x73B74E866eB9Afe00e9a6Ee892c762A82461B4e9",
+    "type": "domain_register",
+    "name": "3jr82461b4e9.phrs",
+    "txHash": "0xb8768efec4bc5d4fd1139bb5c76faed8a45f38ca3c74e67aa8b23348d9026fa0",
+    "price": "0.01562500000001745",
+    "priceWei": "15625000000017450",
+    "duration": 5
+  },
+  {
+    "timestamp": "2025-07-15T10:16:14.016Z",
+    "wallet": "0x73B74E866eB9Afe00e9a6Ee892c762A82461B4e9",
+    "type": "domain_commit",
+    "name": "54o82461b4e9.phrs",
+    "txHash": "0x956623d632259e32ea5b587ae0e96de36429887bdb905011ff5af1eb44ac85fc",
+    "commitment": "0x9d3f9104cdc2be5eeddb89d55c063b637e00870aa7cc97484c3c52f32659145c"
+  },
+  {
+    "timestamp": "2025-07-15T10:17:27.047Z",
+    "wallet": "0x73B74E866eB9Afe00e9a6Ee892c762A82461B4e9",
+    "type": "domain_register",
+    "name": "54o82461b4e9.phrs",
+    "txHash": "0x240b1de1b871da5241f498ff5dbcc508a9e0ec8e9cff5e2ecad05f5b5de895c5",
+    "price": "0.01562500000001745",
+    "priceWei": "15625000000017450",
+    "duration": 5
+  },
+  {
+    "timestamp": "2025-07-15T10:17:44.372Z",
+    "wallet": "0x7Bc8e2588CD173A1Cde4695d76b8cB13fC78B733",
+    "type": "domain_commit",
+    "name": "4v03fc78b733.phrs",
+    "txHash": "0xf5a31c542a8101d81eb946ec2f807e452c16ebb46898e9a6d43d8b41d184bc15",
+    "commitment": "0x1ded0c7a3c1e39d4a3d4865804e5f1e7ec984c2f6a4f1dc2472ccf3e9665d83d"
+  },
+  {
+    "timestamp": "2025-07-15T10:18:57.384Z",
+    "wallet": "0x7Bc8e2588CD173A1Cde4695d76b8cB13fC78B733",
+    "type": "domain_register",
+    "name": "4v03fc78b733.phrs",
+    "txHash": "0x7bdd68cdf214c3d00b4ee390e45a24e9b0a0a697696560aff5af332c23ddbd92",
+    "price": "0.01562500000001745",
+    "priceWei": "15625000000017450",
+    "duration": 5
+  },
+  {
+    "timestamp": "2025-07-15T10:19:09.689Z",
+    "wallet": "0xC862418228AeF85E9eC25eb814c2242c8aAC531c",
+    "type": "domain_commit",
+    "name": "c0bc8aac531c.phrs",
+    "txHash": "0x1be4c0ff2e0a5290949a0a315527ff6c359606044f18667eb15eed9f2f0737c7",
+    "commitment": "0x05890f150e33dad801c93264ec0bf6af4dcdae3285704812f6a19463a49c3734"
+  },
+  {
+    "timestamp": "2025-07-15T10:20:22.657Z",
+    "wallet": "0xC862418228AeF85E9eC25eb814c2242c8aAC531c",
+    "type": "domain_register",
+    "name": "c0bc8aac531c.phrs",
+    "txHash": "0xa9a5a41f10c8e4db32858b5db45054ed4b4795d6fe80310fd1b4a6ff1668795a",
+    "price": "0.01562500000001745",
+    "priceWei": "15625000000017450",
+    "duration": 5
+  },
+  {
+    "timestamp": "2025-07-15T10:20:30.635Z",
+    "wallet": "0xC862418228AeF85E9eC25eb814c2242c8aAC531c",
+    "type": "domain_commit",
+    "name": "45mc8aac531c.phrs",
+    "txHash": "0x96f9fd15a57ad06e2ed2fce1fbad6e687d8c9ae91580d9b5657f4a84c08921d1",
+    "commitment": "0xcff0e78361d04e6e29e379aaa4fac496ddd9bb6a184db735297c12d9cdab5f54"
+  },
+  {
+    "timestamp": "2025-07-15T10:21:43.610Z",
+    "wallet": "0xC862418228AeF85E9eC25eb814c2242c8aAC531c",
+    "type": "domain_register",
+    "name": "45mc8aac531c.phrs",
+    "txHash": "0x3dfc6316362dde77ddc43aafa07520e636606f89c5a6f7c03a03b5eafc06d1af",
+    "price": "0.01562500000001745",
+    "priceWei": "15625000000017450",
+    "duration": 5
+  },
+  {
+    "timestamp": "2025-07-15T10:21:57.054Z",
+    "wallet": "0x383b07Fc4007Faa01d485a42dEA4C697C3549847",
+    "type": "domain_commit",
+    "name": "8ug7c3549847.phrs",
+    "txHash": "0xb63ee218b4b8b4edd1eaada2aa21b3790d06e4551a97d2ebd247e3538e6c746a",
+    "commitment": "0x31ff11778b9eb4efe8f2116ce338f17a2bf364bd148ce8b1b4c4b0c6924a755c"
+  },
+  {
+    "timestamp": "2025-07-15T10:23:10.031Z",
+    "wallet": "0x383b07Fc4007Faa01d485a42dEA4C697C3549847",
+    "type": "domain_register",
+    "name": "8ug7c3549847.phrs",
+    "txHash": "0x9d2325b3333c7d6fa7d0310e4de30b2ce4e9b5de39b5929c812677c60d2698ea",
+    "price": "0.01562500000001745",
+    "priceWei": "15625000000017450",
+    "duration": 5
+  },
+  {
+    "timestamp": "2025-07-15T10:23:20.047Z",
+    "wallet": "0x383b07Fc4007Faa01d485a42dEA4C697C3549847",
+    "type": "domain_commit",
+    "name": "hmz7c3549847.phrs",
+    "txHash": "0x9cb2d126549efd9c62466ffaa7b6994bf2f1da0bd8df83c6857530bb1afb691f",
+    "commitment": "0x856b6036fcb8dd4c3fa341e9e26ebf406a784f33a4fa0953ed339ba241ef0cda"
+  },
+  {
+    "timestamp": "2025-07-15T10:24:33.078Z",
+    "wallet": "0x383b07Fc4007Faa01d485a42dEA4C697C3549847",
+    "type": "domain_register",
+    "name": "hmz7c3549847.phrs",
+    "txHash": "0xdc7a018f74f75d3c01d884bfb314659fd2be2a0f0a95b1eafc219133208c53a7",
+    "price": "0.01562500000001745",
+    "priceWei": "15625000000017450",
+    "duration": 5
+  },
+  {
+    "timestamp": "2025-07-15T10:24:45.326Z",
+    "wallet": "0x53139fE7c2b3a481Ca6cE6e8D22dc248358BB2A9",
+    "type": "domain_commit",
+    "name": "8ub8358bb2a9.phrs",
+    "txHash": "0xf68cc09749ba14647afcb8505dc01c52ed9ff75fb446ed8f3bb118e793457219",
+    "commitment": "0x13763d546b1782bc3cac011eee105afda3396f35a6ebf30b0d98f72d8a271953"
+  },
+  {
+    "timestamp": "2025-07-15T10:25:58.743Z",
+    "wallet": "0x53139fE7c2b3a481Ca6cE6e8D22dc248358BB2A9",
+    "type": "domain_register",
+    "name": "8ub8358bb2a9.phrs",
+    "txHash": "0x61fbc193444d24de5c1dda9f3bb40f69aea9d61e6a9f8bbd4572b2e87ac4ef15",
+    "price": "0.01562500000001745",
+    "priceWei": "15625000000017450",
+    "duration": 5
+  },
+  {
+    "timestamp": "2025-07-15T10:26:10.948Z",
+    "wallet": "0x53139fE7c2b3a481Ca6cE6e8D22dc248358BB2A9",
+    "type": "domain_commit",
+    "name": "l228358bb2a9.phrs",
+    "txHash": "0xbc88d26290062b575c8fa004f5922a083965da28bcc9409f0cbba556a72a4584",
+    "commitment": "0xebc868e5eaae65010650c2a61ac58302b792a6fee37a11fa8012415fc90c7b8b"
+  },
+  {
+    "timestamp": "2025-07-15T10:27:23.804Z",
+    "wallet": "0x53139fE7c2b3a481Ca6cE6e8D22dc248358BB2A9",
+    "type": "domain_register",
+    "name": "l228358bb2a9.phrs",
+    "txHash": "0x8b126544ee2a4993ef5c6467fd9385ceffb1be853f4bdcd054416529b27372d6",
+    "price": "0.01562500000001745",
+    "priceWei": "15625000000017450",
+    "duration": 5
+  },
+  {
+    "timestamp": "2025-07-15T10:27:43.036Z",
+    "wallet": "0xa7c9F476Dd1dE0c4242aC26683B02c2586603390",
+    "type": "domain_commit",
+    "name": "4kq586603390.phrs",
+    "txHash": "0xf430bd67082fe0efc3bbba62f3c3a0e66ccb675035ec67abce560cb4a906f54f",
+    "commitment": "0x4fc70df41126a23cbf8b4ad36937fcdfaf5dc6d2bca82aa771655ce4269f5cdc"
+  },
+  {
+    "timestamp": "2025-07-15T10:28:55.898Z",
+    "wallet": "0xa7c9F476Dd1dE0c4242aC26683B02c2586603390",
+    "type": "domain_register",
+    "name": "4kq586603390.phrs",
+    "txHash": "0x4c4a545bd3763b7d8920ecb4a9947583d4431065d56e84e4af4f38776517b3f6",
+    "price": "0.01562500000001745",
+    "priceWei": "15625000000017450",
+    "duration": 5
+  },
+  {
+    "timestamp": "2025-07-15T10:29:17.665Z",
+    "wallet": "0x17Aa0029d0c3caCc571ED4CBD76878Fd9c495378",
+    "type": "domain_commit",
+    "name": "55pd9c495378.phrs",
+    "txHash": "0xf746366afb74fa0d4b66771323f43404ca7ec005bb745d4de7cff2a1dd413c4a",
+    "commitment": "0x231fa61d9efd42b4abb8a35809d55e62e2f1e0c0786faaa2d6a0707b6d8f8042"
+  },
+  {
+    "timestamp": "2025-07-15T10:30:30.409Z",
+    "wallet": "0x17Aa0029d0c3caCc571ED4CBD76878Fd9c495378",
+    "type": "domain_register",
+    "name": "55pd9c495378.phrs",
+    "txHash": "0x8e979ab2fcbbfcb63d77ad470d5e55736f1949ddeef245e7dc0f88ad06fcdfa7",
+    "price": "0.01562500000001745",
+    "priceWei": "15625000000017450",
+    "duration": 5
+  },
+  {
+    "timestamp": "2025-07-15T10:30:38.459Z",
+    "wallet": "0x17Aa0029d0c3caCc571ED4CBD76878Fd9c495378",
+    "type": "domain_commit",
+    "name": "uo7d9c495378.phrs",
+    "txHash": "0x704c51544de8eb57be36ac9425d33221d35e405b0b97da1e60a85950d52f39ec",
+    "commitment": "0x46b5ad131c005ad7b3c7357e109166a4b04d7255814240609c46e99a4a9f06cb"
+  },
+  {
+    "timestamp": "2025-07-15T10:31:51.693Z",
+    "wallet": "0x17Aa0029d0c3caCc571ED4CBD76878Fd9c495378",
+    "type": "domain_register",
+    "name": "uo7d9c495378.phrs",
+    "txHash": "0xc906afab8c2a6796beb1ec5cd5358950c12e6694ad77df3f76048cc837033dd1",
+    "price": "0.01562500000001745",
+    "priceWei": "15625000000017450",
+    "duration": 5
+  },
+  {
+    "timestamp": "2025-07-15T10:32:00.595Z",
+    "wallet": "0x17Aa0029d0c3caCc571ED4CBD76878Fd9c495378",
+    "type": "domain_commit",
+    "name": "kkbd9c495378.phrs",
+    "txHash": "0xc806364c58820b018cc24a53546263f9b5b7a551eb3b25dbda56c9e02600364b",
+    "commitment": "0x9d18734650f0b6f470f80035e6f400e6cf382112f03142bd8a5e0b160f64f3da"
+  },
+  {
+    "timestamp": "2025-07-15T10:33:13.484Z",
+    "wallet": "0x17Aa0029d0c3caCc571ED4CBD76878Fd9c495378",
+    "type": "domain_register",
+    "name": "kkbd9c495378.phrs",
+    "txHash": "0x76143cc4d0a7e59932bcec72e5305272bdd25224af5d520df3553adf1624e113",
+    "price": "0.01562500000001745",
+    "priceWei": "15625000000017450",
+    "duration": 5
+  },
+  {
+    "timestamp": "2025-07-15T10:33:30.530Z",
+    "wallet": "0x673DD6ca001a347182df736286520102016c36F4",
+    "type": "domain_commit",
+    "name": "6202016c36f4.phrs",
+    "txHash": "0x33041d4e28aba7068140669bae3fb50a90d94e99f7421fd0f64ebe95614d3bdf",
+    "commitment": "0x47873f9c56aeb2aa9d4e714333476f9895526607212f2028a3ce5e8044fa1e77"
+  },
+  {
+    "timestamp": "2025-07-15T10:34:43.349Z",
+    "wallet": "0x673DD6ca001a347182df736286520102016c36F4",
+    "type": "domain_register",
+    "name": "6202016c36f4.phrs",
+    "txHash": "0x96d6e6d0d8068f516ca0e7518b8b0e943ca62803aedb1aa6b5ee5f4fd220416d",
+    "price": "0.01562500000001745",
+    "priceWei": "15625000000017450",
+    "duration": 5
+  },
+  {
+    "timestamp": "2025-07-15T10:34:54.340Z",
+    "wallet": "0x673DD6ca001a347182df736286520102016c36F4",
+    "type": "domain_commit",
+    "name": "4rl2016c36f4.phrs",
+    "txHash": "0x9a125000491a28c406bc3b9b0b826f6aa7027977a2687655c969c7c60ed060b2",
+    "commitment": "0x03490390e6cebc61f820d20f36ff33f7da4bd75e8ec411901676d022945f8b2b"
+  },
+  {
+    "timestamp": "2025-07-15T10:36:07.360Z",
+    "wallet": "0x673DD6ca001a347182df736286520102016c36F4",
+    "type": "domain_register",
+    "name": "4rl2016c36f4.phrs",
+    "txHash": "0xe94ddd5978c12ddc47790b05d515b7cf2d82d9c391498a72b9bdd3d24d5f1478",
+    "price": "0.01562500000001745",
+    "priceWei": "15625000000017450",
+    "duration": 5
+  },
+  {
+    "timestamp": "2025-07-16T11:52:35.968Z",
+    "wallet": "0x9DfCd793d6CF53Ab22bb95146a9B6aA44f496FC9",
+    "type": "domain_commit",
+    "name": "8ub44f496fc9.phrs",
+    "txHash": "0xe0008474b7c61f4400bb45c50b8f7f715f0eabf79cf3865885d6c93cb6389c1c",
+    "commitment": "0x70bfc39cab97262a49bec0d3eae099eeaf0fb71f9ca63d716fee27f664dca0e5"
+  },
+  {
+    "timestamp": "2025-07-16T14:30:30.129Z",
+    "wallet": "0x9DfCd793d6CF53Ab22bb95146a9B6aA44f496FC9",
+    "type": "domain_commit",
+    "name": "9do44f496fc9.phrs",
+    "txHash": "0x596849120928158610a041d017b7b68496825ec6a5e5f094e99097495339e5a2",
+    "commitment": "0xcaddd6ce8fc3a3d49881f038973852ef0bb50939867590bae5a9a0cb89ae91a7"
   }
 ]

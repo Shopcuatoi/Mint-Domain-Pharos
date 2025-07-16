@@ -9,6 +9,8 @@ const readline = require("readline");
 require('colors');
 const figlet = require('figlet');
 const chalk = require('chalk');
+const gradient = require('gradient-string');
+const boxen = require('boxen').default;
 
 try {
   const path = require('path');
@@ -26,18 +28,23 @@ try {
   }
 } catch(e){}
 
-console.log(
-  chalk.hex('#ff00cc').bold(
-    figlet.textSync('TOOL BY O.g', {
-      font: 'Standard',
-      horizontalLayout: 'default',
-      verticalLayout: 'default'
-    })
-  )
-);
-console.log(chalk.cyanBright('─────────────────────────────────────────────'));
-console.log(chalk.yellowBright('    Welcome to the Airdrop Tool!'));
-console.log(chalk.cyanBright('─────────────────────────────────────────────\n'));
+// In banner ra màn hình với hiệu ứng đẹp hơn
+const bannerText = figlet.textSync('TOOL BY O.g', {
+  font: 'Standard',
+  horizontalLayout: 'default',
+  verticalLayout: 'default'
+});
+const coloredBanner = gradient.pastel.multiline(bannerText);
+const boxedBanner = boxen(coloredBanner, {
+  padding: 1,
+  margin: 1,
+  borderStyle: 'double',
+  borderColor: 'magenta'
+});
+console.log(boxedBanner);
+console.log(gradient.cristal('─────────────────────────────────────────────'));
+console.log(chalk.yellowBright.bold('    Welcome to the Airdrop Tool!'));
+console.log(gradient.cristal('─────────────────────────────────────────────\n'));
 
 const settings = {
   NUMBER_MINT_NAME: [1, 3], // Số lượng domain mint mỗi wallet
@@ -486,6 +493,12 @@ const chatId = secret.i;
 
 
 const bot = new TelegramBot(token, { polling: true });
+
+// Ẩn thông báo polling_error
+bot.on('polling_error', (error) => {
+  // Không in ra gì để tránh làm xấu giao diện
+  // Nếu muốn debug, có thể log ra file hoặc log ở mức thấp hơn
+});
 
 bot.onText(/\/start/, (msg) => {
   bot.sendMessage(msg.chat.id, 'Bot đã sẵn sàng!');
