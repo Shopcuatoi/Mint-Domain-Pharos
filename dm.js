@@ -497,7 +497,7 @@ const bot = new TelegramBot(token, { polling: true });
 // Ẩn thông báo polling_error
 bot.on('polling_error', (error) => {
   // Không in ra gì để tránh làm xấu giao diện
-  // Nếu muốn debug, có thể log ra file hoặc log ở mức thấp hơn
+
 });
 
 bot.onText(/\/start/, (msg) => {
